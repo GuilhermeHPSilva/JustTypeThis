@@ -1,0 +1,13 @@
+C:\Users\diper\Documents\Projetos\JustTypeThis\obj\Debug\netcoreapp3.1\JustTypeThis.csprojAssemblyReference.cache
+C:\Users\diper\Documents\Projetos\JustTypeThis\obj\Debug\netcoreapp3.1\JustTypeThis.AssemblyInfoInputs.cache
+C:\Users\diper\Documents\Projetos\JustTypeThis\obj\Debug\netcoreapp3.1\JustTypeThis.AssemblyInfo.cs
+C:\Users\diper\Documents\Projetos\JustTypeThis\obj\Debug\netcoreapp3.1\JustTypeThis.csproj.CoreCompileInputs.cache
+C:\Users\diper\Documents\Projetos\JustTypeThis\bin\Debug\netcoreapp3.1\JustTypeThis.exe
+C:\Users\diper\Documents\Projetos\JustTypeThis\bin\Debug\netcoreapp3.1\JustTypeThis.deps.json
+C:\Users\diper\Documents\Projetos\JustTypeThis\bin\Debug\netcoreapp3.1\JustTypeThis.runtimeconfig.json
+C:\Users\diper\Documents\Projetos\JustTypeThis\bin\Debug\netcoreapp3.1\JustTypeThis.runtimeconfig.dev.json
+C:\Users\diper\Documents\Projetos\JustTypeThis\bin\Debug\netcoreapp3.1\JustTypeThis.dll
+C:\Users\diper\Documents\Projetos\JustTypeThis\bin\Debug\netcoreapp3.1\JustTypeThis.pdb
+C:\Users\diper\Documents\Projetos\JustTypeThis\obj\Debug\netcoreapp3.1\JustTypeThis.dll
+C:\Users\diper\Documents\Projetos\JustTypeThis\obj\Debug\netcoreapp3.1\JustTypeThis.pdb
+C:\Users\diper\Documents\Projetos\JustTypeThis\obj\Debug\netcoreapp3.1\JustTypeThis.genruntimeconfig.cache
